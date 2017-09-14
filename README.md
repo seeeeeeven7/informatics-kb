@@ -1,2 +1,2 @@
-# informatics-kd
-A knowledge database focus on specific domain - Informatics
+# informatics-kb
+A knowledge-base focus on specific domain - Informatics
